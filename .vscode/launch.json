@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RockPaperScissors",
+            "request": "launch",
+            "mainClass": "RockPaperScissors",
+            "projectName": "github_7d8b856d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Plus",
+            "request": "launch",
+            "mainClass": "Plus",
+            "projectName": "github_7d8b856d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhereULive",
+            "request": "launch",
+            "mainClass": "WhereULive",
+            "projectName": "github_7d8b856d"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Hello",
             "request": "launch",
             "mainClass": "Hello"
