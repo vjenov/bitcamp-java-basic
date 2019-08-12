@@ -27,6 +27,8 @@ class ID{
             System.out.println("2000 ~ 2099년에 태어난 외국인 남성");
         }else if(num.equals("8")) {
             System.out.println("2000 ~ 2099년에 태어난 외국인 여성");
+        }else {
+            System.out.println("잘못 입력하셨습니다.");
         }
     }
 }
